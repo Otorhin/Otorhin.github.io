@@ -1,0 +1,8 @@
+{
+	"testapp":{
+		"name": "Test App",
+		"desk": "Test desk",
+		"image": "http://otorhin.github.io/assets/1.png"
+	}
+
+}
