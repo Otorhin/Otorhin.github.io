@@ -1,8 +1,18 @@
 {
 	"testapp":{
-		"name": "Test App",
-		"desk": "Test desk",
+		"name": "Название",
+		"desk": "Описание приложения. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dignissim consequat mauris quis lacinia. Aliquam pretium nisi sit amet nunc viverra, ac ornare risus ornare. Quisque condimentum malesuada metus, non rhoncus mi. Cras at mi neque. Nunc convallis leo non dolor tempor euismod. Curabitur volutpat interdum odio nec vehicula. Pellentesque ipsum sem, molestie et nulla at, cursus malesuada arcu. Integer sed felis dolor. Phasellus egestas ornare libero. Integer risus nibh.",
+		"download_apk": "https://drive.google.com/open?id=1GrP8pWwmTZZNGP4o2l7vozp5PofGt92V",
+		"download_obb": "",
+		"obb_folder": "",
 		"image": "https://otorhin.github.io/assets/1.png"
+	}, "testapp2":{
+		"name": "Название второе",
+		"desk": "Второе описание приложения. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dignissim consequat mauris quis lacinia. Aliquam pretium nisi sit amet nunc viverra, ac ornare risus ornare. Quisque condimentum malesuada metus, non rhoncus mi. Cras at mi neque. Nunc convallis leo non dolor tempor euismod. Curabitur volutpat interdum odio nec vehicula. Pellentesque ipsum sem, molestie et nulla at, cursus malesuada arcu. Integer sed felis dolor. Phasellus egestas ornare libero. Integer risus nibh.",
+		"download_apk": "https://drive.google.com/open?id=1TQtd-LuVTlZwsEW8itEMDzuoDXVwNONV",
+		"download_obb": "https://drive.google.com/open?id=1o3ScZuiswZW-t73r6AcfuvdGA4fTSuIA",
+		"obb_folder": "com.otorhin.ks_repair",
+		"image": "https://otorhin.github.io/assets/2.png"
 	}
 
 }
